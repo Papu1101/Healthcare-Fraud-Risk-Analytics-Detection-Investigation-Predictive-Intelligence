@@ -1,0 +1,2 @@
+# Healthcare-Fraud-Risk-Analytics-Detection-Investigation-Predictive-Intelligence
+Healthcare Fraud Risk Analytics is an end-to-end data analytics project that leverages Python, PostgreSQL, Machine Learning, and Power BI to detect fraudulent healthcare claims, identify high-risk providers, analyze fraud patterns, quantify financial losses, and build predictive models. The project achieved a fraud detection ROC-AUC score of 0.9987
